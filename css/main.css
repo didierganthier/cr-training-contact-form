@@ -256,6 +256,10 @@ li {
   cursor: pointer;
 }
 
+.contact-form ul li {
+  margin-right: 0.15rem;
+}
+
 .project-stacks li:hover {
   background: rgba(0, 0, 0, 0.349);
 }
@@ -354,7 +358,8 @@ li {
   margin: 0 auto;
 }
 
-.contact-form form input, form textarea {
+.contact-form form input,
+form textarea {
   margin-bottom: 1rem;
   padding: 0.5rem;
   border: 1px solid #ccc;
@@ -368,7 +373,7 @@ li {
   cursor: pointer;
   margin-bottom: 1rem;
   margin-left: 130px;
-  font-size: 1rem
+  font-size: 1rem;
 }
 
 .contact-form button:hover {
@@ -390,10 +395,6 @@ li {
   margin: 0;
 }
 
-.contact-form ul li {
-  margin-right: 0.15rem;
-}
-
 .contact-form ul li a {
   color: #333;
   text-decoration: none;
@@ -407,7 +408,3 @@ li {
 .contact-form ul li i {
   font-size: 0.9rem;
 }
-
-
-
-
