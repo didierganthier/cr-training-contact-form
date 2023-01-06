@@ -366,7 +366,7 @@ form textarea {
 }
 
 .contact-form button {
-  background-color: orange;
+  background-color: #F76C01;
   color: white;
   padding: 0.75rem 1.5rem;
   border: none;
@@ -377,7 +377,9 @@ form textarea {
 }
 
 .contact-form button:hover {
-  background-color: #ff944d;
+  color: #F76C01;
+  background-color: #FEF5E1;
+  border: #F76C01;
 }
 
 .contact-form hr {
